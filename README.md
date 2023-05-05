@@ -10,3 +10,6 @@ Follow the prompts in the command line interface to encode or decode your messag
 ## Requirements
 Python 3.6 or above
 art module (pip install art)
+
+## Disclaimer
+This program is meant for educational purposes only. The security of the Caeser Cipher is very weak and should not be used for secure communications.
